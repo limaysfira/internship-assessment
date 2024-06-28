@@ -11,7 +11,7 @@ This project implements a simple User Registration and Profile Management system
 - Backend: PHP, MySQL (database not connected in dummy implementation)
 
 # Installation and Setup
-1. Clone the repository
+1. Clone the repository.
 2. Database Setup :
    - Create a MySQL database named 'assessment'.
    - Import the provided MySQL file ('assessment.sql') to set up the database schema and initial data.
